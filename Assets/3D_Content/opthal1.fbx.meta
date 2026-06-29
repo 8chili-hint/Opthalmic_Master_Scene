@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 368d46b2f6a98c743a5305401a589dc8
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Sampler_blue
+    second: {fileID: 2100000, guid: a0eb0a34c7e4261489467a5b49dcd8f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Sampler_screen
+    second: {fileID: 2100000, guid: 1ad61157130861242a274e10de001b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Air_Sampler_steel1
+    second: {fileID: 2100000, guid: e694de30e9368934aa60f4dfda2df7ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Glass
+    second: {fileID: 2100000, guid: c5a4a5fb071a22445bb3ee1299d4f644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Steel
+    second: {fileID: 2100000, guid: 4fd772225732faa41a754d70b08cb932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_plastic
+    second: {fileID: 2100000, guid: c1a02dd295954874781c087ea6082e8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_plastic1
+    second: {fileID: 2100000, guid: 9c245d2da5516ca4ead3b117a69b5ea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_steel
+    second: {fileID: 2100000, guid: 0e704ac056048a442b28d743b01059dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior
+    second: {fileID: 2100000, guid: 800fc22ab4fb70d4ab5da2ca1244a3ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_2_glass
+    second: {fileID: 2100000, guid: 8bf08c6fee820964aa3d009a4723dbb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_2_steel
+    second: {fileID: 2100000, guid: e4b4b50cb3577c64aac56e52585c8b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_3_glass
+    second: {fileID: 2100000, guid: a65ffe97605cb414f9bdca3b125e6df6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_3_steel
+    second: {fileID: 2100000, guid: aba7e722efa999246bff6e800dec303c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_3_white
+    second: {fileID: 2100000, guid: a53bccbd2d427e946bed3d05100da378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_4_glass
+    second: {fileID: 2100000, guid: 84e64f7f0cb59674cab53e8cf99a6b91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_4_steel
+    second: {fileID: 2100000, guid: f86624d4919d32e4c823b540d8bf5295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_glass
+    second: {fileID: 2100000, guid: 5d987caca2cce604388ab47f0eee74c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_glass.001
+    second: {fileID: 2100000, guid: 02c58bdfb0d37a646892a1748c843964, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior_glass.002
+    second: {fileID: 2100000, guid: feb0c5e21d6ef4640b18f18eea5349ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gloves_cover
+    second: {fileID: 2100000, guid: e759eb970bfd3f7498cd056cbfdd4e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hmi_steel
+    second: {fileID: 2100000, guid: d9d108abcd2baa84eab0e099376458d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_1_plastic
+    second: {fileID: 2100000, guid: 3a38fe237e925e848928e43e7e509d39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_1_steel
+    second: {fileID: 2100000, guid: 17a6a705608a00b488c3a0b59d7ae46e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_2_steel
+    second: {fileID: 2100000, guid: 94f5d2108d54f1549b13c5b77954de68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_3_plasticBlack
+    second: {fileID: 2100000, guid: 9d44ae87c76cd684abc0e89375099b96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_3_plasticBlue
+    second: {fileID: 2100000, guid: 5ca1febd522777644b4077fa076b4a3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_3_steel
+    second: {fileID: 2100000, guid: fd15e292dc34acf48b482e3ed7552f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_4_glass
+    second: {fileID: 2100000, guid: 54efb7126465371479497aad471157b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_4_plastic
+    second: {fileID: 2100000, guid: 1050844621723d742b5459eb7de2154d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_4_plasticGreen
+    second: {fileID: 2100000, guid: 16679666eb38037458589717c173b07c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_4_plasticOrange
+    second: {fileID: 2100000, guid: e04d1c877e6acf84d88edd4364e4fcaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_4_plasticRed
+    second: {fileID: 2100000, guid: 1e0a4a94ffe010940b1d9dd3147bded1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_4_steel
+    second: {fileID: 2100000, guid: 3b3ed0b0f2a7bc545965f7ec765a7440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Machin_two_1
+    second: {fileID: 2100000, guid: ce484923be027a542aeb12872f3d51d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_1_white
+    second: {fileID: 2100000, guid: 6d661c0394324474b87803b0b60546b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_2_Glass
+    second: {fileID: 2100000, guid: 453454004262f194382faec22d2cfbde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_2_Yellow_glass
+    second: {fileID: 2100000, guid: a75608baa7e682943825cc1726a0e6c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_2_steel
+    second: {fileID: 2100000, guid: 967ed9ae29b53e14385057218c292617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_3_steel
+    second: {fileID: 2100000, guid: 7d3148afd29efa44da92d7e613072cae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_3_white
+    second: {fileID: 2100000, guid: ad39f026ddf49e24d86fa3dc852ffb17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_4_steel
+    second: {fileID: 2100000, guid: a4af754a9fe3fcf4488afd6b40e7c633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_5_Glass
+    second: {fileID: 2100000, guid: 387fcc82d3f05874185ccaca4a68a77b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_5_Yellow
+    second: {fileID: 2100000, guid: 0a0e4159c2b604b40ad2cdcc42d864f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_5_Yellow_glass
+    second: {fileID: 2100000, guid: 6869807d50d286a408dceaa654803288, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_5_steel
+    second: {fileID: 2100000, guid: 4f2e53c1c1e752049bd13f71437ec162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_5_white
+    second: {fileID: 2100000, guid: f55b48c3dd729104296cb4825a10a4af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_6_Black
+    second: {fileID: 2100000, guid: 1e932ca3e88a8514b8ddbd49a1bb4593, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_6_steel
+    second: {fileID: 2100000, guid: 56b2eca46544b6f439b7cd20c7370b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_6_white
+    second: {fileID: 2100000, guid: 53d338e6832eb3d48a58c430e35e47ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_7_black
+    second: {fileID: 2100000, guid: 929faf11bee7d584fb777f686cdd735d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Opthalmic_7_steel
+    second: {fileID: 2100000, guid: 280329eb434ad574286fda44ab25df2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stickers
+    second: {fileID: 2100000, guid: 362ce2b9581388c48a78fcc10fab8ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 76659817c268cbe469b6c3225c769683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Door_Glass
+    second: {fileID: 2100000, guid: 1847e65b68cf8094fb429c3d279c2820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___GROUP.001_black_plastic
+    second: {fileID: 2100000, guid: 9ac38b9f82816c44588fd334edd634df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___GROUP.001_red_plastic
+    second: {fileID: 2100000, guid: 51928257b48ca8b4897ba2dfa3a44712, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___GROUP.001_steel
+    second: {fileID: 2100000, guid: 86548185875c4de41aaeb92e5ac821e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___GROUP_grp
+    second: {fileID: 2100000, guid: 02a9ff3e3cd50214eab1c5b9d28a7a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___GROUP_grp_curtains
+    second: {fileID: 2100000, guid: 71cfba44f9e12874d9488ed3131f1b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__stickers
+    second: {fileID: 2100000, guid: 58f5f048a5a59514db292af44bc0f0e5, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
