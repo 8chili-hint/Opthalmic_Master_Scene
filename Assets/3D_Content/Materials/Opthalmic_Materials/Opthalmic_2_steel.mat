@@ -26,7 +26,6 @@ Material:
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _DETAIL_MULX2
-  - _OCCLUSIONMAP
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -73,7 +72,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 2800000, guid: 23c98a2d5e4a5974b947dc1fad71c3bc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 3acfd40d131dfea46ba722213886a698, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -118,11 +117,11 @@ Material:
     - _GlossyReflections: 1
     - _Metallic: 0.95
     - _Mode: 0
-    - _OcclusionStrength: 0.9
+    - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Smoothness: 0.8
+    - _Smoothness: 0.88
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -133,8 +132,8 @@ Material:
     - _XRMotionVectorsPass: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.8627451, g: 0.8627451, b: 0.8627451, a: 1}
-    - _Color: {r: 0.8627451, g: 0.8627451, b: 0.8627451, a: 1}
+    - _BaseColor: {r: 0.5924529, g: 0.5924529, b: 0.5924529, a: 1}
+    - _Color: {r: 0.5924529, g: 0.5924529, b: 0.5924529, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
