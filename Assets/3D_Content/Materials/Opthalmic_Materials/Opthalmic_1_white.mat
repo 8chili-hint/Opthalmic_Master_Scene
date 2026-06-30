@@ -50,14 +50,14 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
         m_Texture: {fileID: 2800000, guid: 9ed1b6f045e072444be94d1a974287f5, type: 3}
-        m_Scale: {x: 1, y: 1}
+        m_Scale: {x: 80, y: 80}
         m_Offset: {x: 0, y: 0}
     - _DetailMask:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailNormalMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 53a21f292648cdf4dbd6c8107b7b8c1d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
@@ -118,7 +118,7 @@ Material:
     - _GlossyReflections: 1
     - _Metallic: 0.45
     - _Mode: 0
-    - _OcclusionStrength: 0.794
+    - _OcclusionStrength: 0.9
     - _Parallax: 0.02
     - _QueueOffset: 0
     - _ReceiveShadows: 1
